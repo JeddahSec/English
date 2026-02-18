@@ -8,7 +8,7 @@
 * جدول الدروس (Progress Table)
 | الدرس | العنوان | الرابط في المستودع | الحالة |
 |-------+---------------------------------------+------------------------+---------|
-| 001   | Now You're Talking: Where Do You Live? | [[./Lesson_001/README.org][Lesson 001]] | ✅ مكتمل |
+| 001   | Now You're Talking: Where Do You Live? | [[./Lesson_001/README.org][Lesson_001]] | ✅ مكتمل |
 | 002   | Lesson Title Example                  | [[./Lesson_002/README.org][Lesson 002]] | ⏳ قيد العمل |
 
 * ملاحظات عامة
