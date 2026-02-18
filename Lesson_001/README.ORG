@@ -1,0 +1,66 @@
+#+TITLE: Lesson: Where Do You Live?
+#+AUTHOR: Engoo Conversation
+#+DATE: <2025-12-29>
+#+DESCRIPTION: Personal study notes and summaries for ENGLISH
+#+LANGUAGE: en
+#+OPTIONS: toc:2 num:t
+#+STARTUP: overview indent
+
+* 1. Vocabulary & Examples
+/Listen and repeat these words and phrases with your tutor:/
+
+- *In a valley* (في وادي)
+  Example: The house is located in a beautiful green valley.
+- *By a river* (بجانب نهر)
+  Example: I love living by a river; it's very peaceful.
+- *In the city center* (في وسط المدينة)
+  Example: Living in the city center is convenient but noisy.
+- *In the countryside* (في الريف)
+  Example: My grandparents live in a small cottage in the countryside.
+- *In the suburbs* (في الضواحي)
+  Example: Many families prefer to live in the suburbs.
+
+* 2. Main Dialogue (Hyun-woo and Teacher)
+/Read the dialogue aloud:/
+
+- *Teacher:* Where do you live, Hyun-woo?
+- *Hyun-woo:* I live in an apartment in Seoul, South Korea.
+- *Teacher:* Where in Seoul is your apartment?
+- *Hyun-woo:* My apartment is in the city center.
+- *Teacher:* What is your home like?
+- *Hyun-woo:* It is small, but it's comfortable. It has one bedroom, a kitchen, a bathroom, and a living room. We have a nice balcony and a garage for our car.
+- *Teacher:* Is it a modern apartment, Hyun-woo?
+- *Hyun-woo:* No, it's quite old. But it's not cold or damp. How about you? Where do you live?
+- *Teacher:* I live in an old house in the countryside. It's small and dark. It has a kitchen, a living room, a bedroom and a bathroom. But it has a very large garden, and it's by a river, so I love it!
+
+* 3. Fill in the Blanks Exercise (Jim and Teacher)
+/Complete the dialogue using the words: (really, in, It, room, in, have, an)/
+
+- *Teacher:* Where do you live, Jim?
+- *Jim:* I live in *(1) an* apartment *(2) in* Los Angeles, USA.
+- *Teacher:* Where is your apartment in Los Angeles?
+- *Jim:* It's *(3) in* the suburbs.
+- *Teacher:* What is your home like?
+- *Jim:* *(4) It* is quite big. We *(5) have* three bedrooms, two bathrooms, a kitchen, a dining *(6) room* and a living room. We have a garden and a garage, too.
+- *Teacher:* Is it a modern apartment?
+- *Jim:* Yes. My apartment is *(7) really* modern. It's large and very light.
+
+* 4. Sentence Ordering Practice
+/Put the words into the correct order:/
+
+1. *Question:* live Where you do?
+   - /Answer:/ Where do you live?
+2. *Statement:* live the in want to city I.
+   - /Answer:/ I want to live in the city.
+3. *Question:* is What it like?
+   - /Answer:/ What is it like?
+4. *Statement:* spacious modern It's and.
+   - /Answer:/ It's modern and spacious.
+
+* 5. Check Your Understanding
+- *Q1:* Where in Seoul does Hyun-woo live?
+  - *A:* He lives in the city center.
+- *Q2:* Is Hyun-woo's home big?
+  - *A:* No, it is small, but comfortable.
+- *Q3:* What does the teacher's house have?
+  - *A:* It has a kitchen, a living room, a bedroom, a bathroom, and a very large garden.
