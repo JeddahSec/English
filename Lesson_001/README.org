@@ -7,8 +7,39 @@
 #+STARTUP: overview indent
 
 * 1. Vocabulary & Examples
-/Listen and repeat these words and phrases with your tutor:/
-
+- *kitchen*
+  Example: We bought a new rug for the kitchen.
+- *living room*
+  Example: My house has a big living room.
+- *dining room*
+  Example: My dining room is very small.
+- *bedroom*
+  Example: I like to keep my bedroom very neat.
+- *bathroom*
+  Example: This house has a large bathroom.
+- *garage*
+  Example: I always park my car in the garage.
+- *garden*
+  Example: It took us all weekend to pull all the weeds out of the garden.
+- *balcony*
+  Example: Our balcony isn't very big.
+- *light*
+  Example: My apartment is large and very light.
+- *dark*
+  Example: My house is very dark in winter.
+- *modern*
+  Example: Modern readers sometimes struggle with Shakespeare's language.
+  Example: She lives in a very modern apartment.
+- *old*
+  Example: This house is very old.
+- *large*
+  Example: They have a very large family.
+- *small*
+  Example: I live in a small, quiet town.
+- *cold*
+  Example: It's cold so she's wearing gloves.
+- *damp*
+  Example: My house isn't cold or damp.
 - *In a valley* (في وادي)
   Example: The house is located in a beautiful green valley.
 - *By a river* (بجانب نهر)
@@ -21,7 +52,6 @@
   Example: Many families prefer to live in the suburbs.
 
 * 2. Main Dialogue (Hyun-woo and Teacher)
-/Read the dialogue aloud:/
 
 - *Teacher:* Where do you live, Hyun-woo?
 - *Hyun-woo:* I live in an apartment in Seoul, South Korea.
@@ -34,7 +64,6 @@
 - *Teacher:* I live in an old house in the countryside. It's small and dark. It has a kitchen, a living room, a bedroom and a bathroom. But it has a very large garden, and it's by a river, so I love it!
 
 * 3. Fill in the Blanks Exercise (Jim and Teacher)
-/Complete the dialogue using the words: (really, in, It, room, in, have, an)/
 
 - *Teacher:* Where do you live, Jim?
 - *Jim:* I live in *(1) an* apartment *(2) in* Los Angeles, USA.
@@ -46,7 +75,6 @@
 - *Jim:* Yes. My apartment is *(7) really* modern. It's large and very light.
 
 * 4. Sentence Ordering Practice
-/Put the words into the correct order:/
 
 1. *Question:* live Where you do?
    - /Answer:/ Where do you live?
@@ -64,3 +92,6 @@
   - *A:* No, it is small, but comfortable.
 - *Q3:* What does the teacher's house have?
   - *A:* It has a kitchen, a living room, a bedroom, a bathroom, and a very large garden.
+
+---
+[[../README.org][Back to Main Menu]]
