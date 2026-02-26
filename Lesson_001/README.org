@@ -3,95 +3,48 @@
 #+DATE: <2025-12-29>
 #+DESCRIPTION: Personal study notes and summaries for ENGLISH
 #+LANGUAGE: en
-#+OPTIONS: toc:2 num:t
-#+STARTUP: overview indent
+#+OPTIONS: toc:2
 
-* 1. Vocabulary & Examples
-- *kitchen*
-  Example: We bought a new rug for the kitchen.
-- *living room*
-  Example: My house has a big living room.
-- *dining room*
-  Example: My dining room is very small.
-- *bedroom*
-  Example: I like to keep my bedroom very neat.
-- *bathroom*
-  Example: This house has a large bathroom.
-- *garage*
-  Example: I always park my car in the garage.
-- *garden*
-  Example: It took us all weekend to pull all the weeds out of the garden.
-- *balcony*
-  Example: Our balcony isn't very big.
-- *light*
-  Example: My apartment is large and very light.
-- *dark*
-  Example: My house is very dark in winter.
-- *modern*
-  Example: Modern readers sometimes struggle with Shakespeare's language.
-  Example: She lives in a very modern apartment.
-- *old*
-  Example: This house is very old.
-- *large*
-  Example: They have a very large family.
-- *small*
-  Example: I live in a small, quiet town.
-- *cold*
-  Example: It's cold so she's wearing gloves.
-- *damp*
-  Example: My house isn't cold or damp.
-- *In a valley* (في وادي)
-  Example: The house is located in a beautiful green valley.
-- *By a river* (بجانب نهر)
-  Example: I love living by a river; it's very peaceful.
-- *In the city center* (في وسط المدينة)
-  Example: Living in the city center is convenient but noisy.
-- *In the countryside* (في الريف)
-  Example: My grandparents live in a small cottage in the countryside.
-- *In the suburbs* (في الضواحي)
-  Example: Many families prefer to live in the suburbs.
+* TABLE OF CONTENTS :toc:
+- [[#warm-up][Warm-up]]
+- [[#vocabulary][Vocabulary]]
+- [[#more-vocabulary][More Vocabulary]]
+- [[#dialogue][Dialogue]]
 
-* 2. Main Dialogue (Hyun-woo and Teacher)
+* Warm-up
+| kitchen     | We bought a new rug for the *kitchen*                          |
+| living room | My house has a big living room                                 |
+| dining room | My dining room is very small.                                  |
+| bedroom     | I like to keep my bedroom very neat.                           |
+| bathroom    | This house has a large bathroom.                               |
+| garage      | I always park my car in the garage.                            |
+| garden      | It took us all weekend to pull all the weeds out of the garden |
+| balcony     | Our balcony isn't very big.                                    |
+* Vocabulary
+| light  | My apartment is large and very light. |
+| dark   | My house is very dark in winter.      |
+| modern | She lives in a very modern apartment. |
+| old    | This house is very old.               |
+| large  | They have a very large family.        |
+| small  | I live in a small, quiet town.        |
+| cold   | It's cold so she's wearing gloves.    |
+| damp   | My house isn't cold or damp.          |
 
-- *Teacher:* Where do you live, Hyun-woo?
-- *Hyun-woo:* I live in an apartment in Seoul, South Korea.
-- *Teacher:* Where in Seoul is your apartment?
-- *Hyun-woo:* My apartment is in the city center.
-- *Teacher:* What is your home like?
-- *Hyun-woo:* It is small, but it's comfortable. It has one bedroom, a kitchen, a bathroom, and a living room. We have a nice balcony and a garage for our car.
-- *Teacher:* Is it a modern apartment, Hyun-woo?
-- *Hyun-woo:* No, it's quite old. But it's not cold or damp. How about you? Where do you live?
-- *Teacher:* I live in an old house in the countryside. It's small and dark. It has a kitchen, a living room, a bedroom and a bathroom. But it has a very large garden, and it's by a river, so I love it!
+* More Vocabulary
+| on the coast       |
+| in a valley        |
+| by a river         |
+| in the city center |
+| in the countryside |
+| in the suburbs     |
 
-* 3. Fill in the Blanks Exercise (Jim and Teacher)
-
-- *Teacher:* Where do you live, Jim?
-- *Jim:* I live in *(1) an* apartment *(2) in* Los Angeles, USA.
-- *Teacher:* Where is your apartment in Los Angeles?
-- *Jim:* It's *(3) in* the suburbs.
-- *Teacher:* What is your home like?
-- *Jim:* *(4) It* is quite big. We *(5) have* three bedrooms, two bathrooms, a kitchen, a dining *(6) room* and a living room. We have a garden and a garage, too.
-- *Teacher:* Is it a modern apartment?
-- *Jim:* Yes. My apartment is *(7) really* modern. It's large and very light.
-
-* 4. Sentence Ordering Practice
-
-1. *Question:* live Where you do?
-   - /Answer:/ Where do you live?
-2. *Statement:* live the in want to city I.
-   - /Answer:/ I want to live in the city.
-3. *Question:* is What it like?
-   - /Answer:/ What is it like?
-4. *Statement:* spacious modern It's and.
-   - /Answer:/ It's modern and spacious.
-
-* 5. Check Your Understanding
-- *Q1:* Where in Seoul does Hyun-woo live?
-  - *A:* He lives in the city center.
-- *Q2:* Is Hyun-woo's home big?
-  - *A:* No, it is small, but comfortable.
-- *Q3:* What does the teacher's house have?
-  - *A:* It has a kitchen, a living room, a bedroom, a bathroom, and a very large garden.
-
----
-[[../README.org][Back to Main Menu]]
+* Dialogue
+| Teacher  | Where do you live, Hyun-woo?                                                                                                                                                                  |
+| Hyun-woo | I live in an apartment in Seoul, South Korea.                                                                                                                                                 |
+| Teacher  | Where in Seoul is your apartment?                                                                                                                                                             |
+| Hyun-woo | My apartment is in the city center.                                                                                                                                                           |
+| Teacher  | What is your home like?                                                                                                                                                                       |
+| Hyun-woo | It is small, but it's comfortable. It has one bedroom, a kitchen, a bathroom, and a living room. We have a nice balcony and a garage for our car.                                             |
+| Teacher  | Is it a modern apartment, Hyun-woo?                                                                                                                                                           |
+| Hyun-woo | No, it's quite old. But it's not cold or damp. How about you? Where do you live?                                                                                                              |
+| Teacher  | I live in an old house in the countryside. It's small and dark. It has a kitchen, a living room, a bedroom and a bathroom. But it has a very large garden, and it's by a river, so I love it! |
