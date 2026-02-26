@@ -12,23 +12,24 @@
 - [[#dialogue][Dialogue]]
 
 * Warm-up
-| kitchen     | We bought a new rug for the *kitchen*                          |
-| living room | My house has a big living room                                 |
-| dining room | My dining room is very small.                                  |
-| bedroom     | I like to keep my bedroom very neat.                           |
-| bathroom    | This house has a large bathroom.                               |
-| garage      | I always park my car in the garage.                            |
-| garden      | It took us all weekend to pull all the weeds out of the garden |
-| balcony     | Our balcony isn't very big.                                    |
+| kitchen     | We bought a new rug for the *kitchen*                            |
+| living room | My house has a big *living room*                                 |
+| dining room | My *dining room* is very small.                                  |
+| bedroom     | I like to keep my *bedroom* very neat.                           |
+| bathroom    | This house has a large *bathroom*.                               |
+| garage      | I always park my car in the *garage*.                            |
+| garden      | It took us all weekend to pull all the weeds out of the *garden* |
+| balcony     | Our *balcony* isn't very big.                                    |
+
 * Vocabulary
-| light  | My apartment is large and very light. |
-| dark   | My house is very dark in winter.      |
-| modern | She lives in a very modern apartment. |
-| old    | This house is very old.               |
-| large  | They have a very large family.        |
-| small  | I live in a small, quiet town.        |
-| cold   | It's cold so she's wearing gloves.    |
-| damp   | My house isn't cold or damp.          |
+| light  | My apartment is large and very *light*. |
+| dark   | My house is very *dark* in winter.      |
+| modern | She lives in a very *modern* apartment. |
+| old    | This house is very *old*.               |
+| large  | They have a very *large* family.        |
+| small  | I live in a *small*, quiet town.        |
+| cold   | It's *cold* so she's wearing gloves.    |
+| damp   | My house isn't cold or *damp*.          |
 
 * More Vocabulary
 | on the coast       |

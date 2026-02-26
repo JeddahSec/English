@@ -4,111 +4,49 @@
 #+DESCRIPTION: Personal study notes and summaries for ENGLISH
 #+LANGUAGE: en
 #+OPTIONS: toc:2 num:t
-#+STARTUP: overview indent
+* TABLE OF CONTENTS :toc:
+- [[#warm-up][Warm-up]]
+- [[#vocabulary][Vocabulary]]
+- [[#more-vocabulary][More Vocabulary]]
+- [[#dialogue][Dialogue]]
 
-* 1. Vocabulary & Examples
-- *reading*
-  Example: I always practice reading in my English lessons.
-- *writing*
-  Example: My son finds reading and writing difficult.
-- *speaking*
-  Example: I like practicing speaking in my English lessons.
-- *listening*  
-  Example: In today's class, we're going to practice listening.
-- *vocabulary*
-  Example: Let's start the lesson by learning some vocabulary.
-- *grammar*
-  Example: I spend a lot of time studying grammar.
-- *pronunciation*
-  Example: Reading aloud is a good way to practice your pronunciation.
-- *spelling*
-  Example: I find English spelling very difficult.
-- *fun*
-  Example: Surfing is really fun, but it's also very tiring.
-- *boring*
-  Example: My history lecture was so boring today.
-- *difficult*
-  Example: Japanese is a difficult language to learn.
-- *easy*
-  Example: I have a very easy job.
-- *hard*
-  Example: These instructions are complicated and hard to follow.
-- *tiring*
-  Example: Working 10-hour days is very tiring.
-- *useful*
-  Example: The information in this book is very useful.
-- *dull*
-  Example:  The soccer game was very dull.
-- More Vocabulary
-  - to meet new people
-  - to get a better job
-  - to make money
-  - to make my parents happy
-  - because it is interesting
-  - because it is a company requirement
-  - because I want to travel
-* 2. Main Dialogue (Haruto and Teacher)
-- *Teacher:* Why are you learning English, Haruto?
-- *Haruto:* I'm learning English to meet new people. Also, to make my parents happy! 
-- *Teacher:*  What do you like about learning English?
-- *Haruto:* Well, I like speaking English. I also like practicing pronunciation. But there are some things I don't like. I don't like learning English grammar at all. It's very boring and difficult. 
-- *Teacher:*  What else do you find difficult about English?
-- *Haruto:* I think learning English vocabulary is difficult and tiring. I think writing is difficult, too. And boring! 
-- *Teacher:* What do you find easy about learning English?
-- *Haruto:*  I find listening easy. Speaking is easy, too. What do you like about teaching English?
-- *Teacher:*  I like speaking with my students.
-* 3. Fill in the Blanks Exercise (Ling and Teacher)
-- *Teacher*: Why are you learning English?
-- *Ling*: I’m (1) English to meet new people and to get a better (2).
-- *Teacher*: What do you like about learning English?
-- *Ling*: I really (3) learning the grammar. It’s interesting and useful.
-- *Teacher*: What do you find difficult about learning English?
-- *Ling*: I find English spelling and pronunciation really (4).
-- *Teacher*: What do you find easy?
-- *Ling*: I think learning grammar is (5). How about you?
-- *Teacher*: (6) are you teaching English?
-- *Ling*: I’m teaching English to make some money and meet new people.
-* 4. Instructions
-** Questions
+* Warm-up
+| reading       | I always practice *reading* in my English lessons.            |
+| writing       | My son finds reading and *writing* difficult.                 |
+| speaking      | I like practicing *speaking* in my English lessons.           |
+| listening     | In today's class, we're going to practice *listening*.        |
+| vocabulary    | Let's start the lesson by learning some *vocabulary*.         |
+| grammar       | I spend a lot of time studying *grammar*.                     |
+| pronunciation | Reading aloud is a good way to practice your *pronunciation*. |
+| spelling      | I find English *spelling* very difficult.                     |
 
-1. Why are you learning English?
-2. What do you like about learning English?
-3. What do you find difficult about learning English?
-4. What do you find easy?
-5. How often do you practice English?
-6. How do you practice English?
+* Vocabulary
+| fun       | Surfing is really *fun*, but it's also very tiring.      |
+| boring    | My history lecture was so *boring* today.                |
+| difficult | Japanese is a *difficult* language to learn.             |
+| easy      | I have a very *easy* job.                                |
+| hard      | These instructions are complicated and *hard* to follow. |
+| tiring    | Working 10-hour days is very *tiring*.                   |
+| useful    | The information in this book is very *useful*.           |
+| dull      | The soccer game was very *dull*.                         |
 
-** Example Conversation
-*** Teacher:
-Why are you learning English?
+* More Vocabulary
 
-*** Student:
-I’m learning English to get a better job.
+| to meet new people                  |
+| to get a better job                 |
+| to make money                       |
+| to make my parents happy            |
+| because it is interesting           |
+| because it is a company requirement |
+| because I want to travel            |
 
-*** Teacher:
-What do you find difficult?
-
-*** Student:
-I find pronunciation difficult.
-
-** Extra Challenge
-
-Create your own questions using:
-
-- How long ... ?
-- When ... ?
-- Who ... ?
-- Where ... ?
-- What kind of ... ?
-
-*** Examples
-
-- How long have you been learning English?
-- What kind of English do you want to learn?
-- When do you usually practice English?
-- Where do you use English the most?
-
-** Practice
-
-Take turns asking and answering.
-Try to speak in full sentences.
+* Dialogue
+| Teacher | Why are you learning English, Haruto?                                                                                                                                                      |
+| Haruto  | I'm learning English to meet new people. Also, to make my parents happy!                                                                                                                   |
+| Teacher | What do you like about learning English?                                                                                                                                                   |
+| Haruto  | Well, I like speaking English. I also like practicing pronunciation. But there are some things I don't like. I don't like learning English grammar at all. It's very boring and difficult. |
+| Teacher | What else do you find difficult about English?                                                                                                                                             |
+| Haruto  | I think learning English vocabulary is difficult and tiring. I think writing is difficult, too. And boring!                                                                                |
+| Teacher | What do you find easy about learning English?                                                                                                                                              |
+| Haruto  | I find listening easy. Speaking is easy, too. What do you like about teaching English?                                                                                                     |
+| Teacher | I like speaking with my students.                                                                                                                                                          |
