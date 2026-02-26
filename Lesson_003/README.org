@@ -1,0 +1,56 @@
+#+TITLE: Lesson: Who Do You Live With? 
+#+AUTHOR: Engoo Conversation
+#+DATE: <2025-12-29>
+#+DESCRIPTION: Personal study notes and summaries for ENGLISH
+#+LANGUAGE: en
+#+OPTIONS: toc:2
+
+* TABLE OF CONTENTS :toc:
+- [[#warm-up][Warm-up]]
+- [[#vocabulary][Vocabulary]]
+- [[#more-vocabulary][More Vocabulary]]
+- [[#dialogue][Dialogue]]
+
+* Warm-up
+| daughter    | My *daughter* wants to be an artist.                      |
+| roommate    | I live with my *roommate*.                                |
+| son         | Your *son* is such a sweet kid!                           |
+| brother     | My little *brother* is so annoying.                       |
+| landlord    | Our new *landlord* doesn't seem very nice.                |
+| girlfriend  | My *girlfriend* and I have lived together for five years. |
+| husband     | My *husband* has always been very caring and thoughtful.  |
+| grandmother | My *grandmother* has short gray hair.                     |
+
+
+* Vocabulary
+| shy          | My son is very shy.                                                      |
+| angry        | He got angry when he lost the game.                                      |
+| shociable    | He is a very sociable child.                                             |
+| lazy         | My son is lazy, but my daughter is very hard-working.                    |
+| kind         | My uncle is always very kind to me.                                      |
+| active       | My grandmother is very active.                                           |
+| easy-going   | My new teacher is very easy-going.                                       |
+| hard-working | We're looking for a creative and hard-working designer to join our team. |
+
+* More Vocabulary
+| exercising         |
+| gaming             |
+| gardening          |
+| listening to music |
+| watching TV        |
+| going shopping     |
+| cooking            |
+| playing sports     |
+
+* Dialogue
+
+| Teacher | Who do you live with, Nina?                                                                                                                             |
+| Nina    | I live with my mother, my father and my grandmother.                                                                                                    |
+| Teacher | What is your mother like?                                                                                                                               |
+| Nina    | My mother is kind and hard-working. She is a doctor, so she works really long hours.                                                                    |
+| Teacher | What do you and your mother like doing together?                                                                                                        |
+| Nina    | When my mother isn't working, we like watching TV together. We also enjoy listening to music. She really likes gardening, but I don't like that at all. |
+| Teacher | What is your grandmother like?                                                                                                                          |
+| Nina    | She is similar to my father. They are both sociable and active.                                                                                         |
+| Teacher | What do you all like doing together?                                                                                                                    |
+| Nina    | We love cooking, eating, and watching TV together.                                                                                                      |
