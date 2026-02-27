@@ -6,11 +6,15 @@
 منصة [[https://engoo.com][Engoo]] توفر دروساً تفاعلية لتعلم اللغة الإنجليزية. هذا المستودع يهدف لتبسيط الدروس وتلخيص الكلمات والقواعد الهامة.
 
 * جدول الدروس (Progress Table)
-| الدرس | العنوان                                   | الرابط في المستودع | الحالة    |
-|------+----------------------------------------+--------------+---------|
-|  001 | Now You're Talking: Where Do You Live? | [[./Lesson_001/README.org][Lesson_001]]   | ✅ مكتمل |
-|  002 | Why Are You Learning English?          | [[./Lesson_002/README.org][Lesson_002]]   | ✅ مكتمل |
-|  003 | Who Do You Live With?                  | [[./Lesson_002/README.org][Lesson_003]]   | ✅ مكتمل |
+
+| Lesson | Topic                         | Link in Repository | Status   |
+|--------+-------------------------------+--------------------+----------|
+|    001 | Where Do You Live?            | [[./Lesson_001][Lesson_001]]         | ✅ Done |
+|    002 | Why Are you Learning English? | [[./Lesson_002][Lesson_002]]         | ✅ Done |
+|    003 | Who Do you Live With?         | [[./Lesson_003][Lesson_003]]         | ✅ Done |
+|    004 | Does He Have a Beard?         | [[./Lesson_004][Lesson_004]]         | ✅ Done |
+
+
 
 * ملاحظات عامة
 - يتم مراجعة الكلمات الجديدة أسبوعياً.

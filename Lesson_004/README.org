@@ -1,0 +1,55 @@
+#+TITLE: Lesson: Dees He Have a Beard?
+#+AUTHOR: Engoo Conversation
+#+DATE: <2026-2-27>
+#+DESCRIPTION: Personal study notes and summaries for ENGLISH
+#+LANGUAGE: en
+#+OPTIONS: toc:2
+
+* TABLE OF CONTENTS :toc:
+- [[#warm-up][Warm-up]]
+- [[#vocabulary][Vocabulary]]
+- [[#more-vocabulary][More Vocabulary]]
+- [[#dialogue][Dialogue]]
+
+* Warm-up
+| average weight  |
+| overweight      |
+| slim            |
+| tall            |
+| average height  |
+| short           |
+| 165 centimeters |
+| 55 kilograms    |
+
+* Vocabulary
+| blue eyes            |
+| green eyes           |
+| brown eyes           |
+| red hair             |
+| straight hair        |
+| curly hair           |
+| shoulder-length hair |
+| long hair            |
+
+* More Vocabulary
+| mustache |
+| beard    |
+| tattoo   |
+| piercing |
+| freckles |
+| scar     |
+| glasses  |
+
+* Dialogue
+
+| Teacher | How tall is your sister, Camille?                                                                    |
+| Camille | She is average height. She is about 160 centimeters, I think.                                        |
+| Teacher | What is her hair like?                                                                               |
+| Camille | She has brown hair, like I do. It is straight and shoulder-length.                                   |
+| Teacher | Does she have any distinctive features?                                                              |
+| Camille | She has a piercing in her nose, and a tattoo on her shoulder. How tall is your brother?              |
+| Teacher | He is very tall. He is about 190 centimeters.                                                        |
+| Camille | What does he weight?                                                                                 |
+| Teacher | He's very slim.                                                                                      |
+| Camille | What does he look like?                                                                              |
+| Teacher | He has brown eyes and curly red hair. His hair is short. He has lots of freckles and a mustache too. |
